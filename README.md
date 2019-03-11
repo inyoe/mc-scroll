@@ -8,7 +8,7 @@
 
 ## 组件包含文件：
 * mc-scroll.js - 组件主功能
-* ms-scroll.css - 组件样式
+* mc-scroll.css - 组件样式
 
 
 ## DEMO：
